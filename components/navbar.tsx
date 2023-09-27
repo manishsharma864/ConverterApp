@@ -63,14 +63,7 @@ export default function Navbar({}): any {
                     About
                   </Button>
                 </Link>
-                <Link href="/privacy-policy">
-                  <Button
-                    variant="link"
-                    className="font-semibold text-md w-full"
-                  >
-                    Privacy Policy
-                  </Button>
-                </Link>
+              
               </div>
             </SheetDescription>
           </SheetHeader>
